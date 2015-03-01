@@ -1,0 +1,9 @@
+{
+	"packages" : {
+		"heffaklump90/silverstripe-comments": {
+			"dev-master": { @composer.json },
+			"0.0.1": { @composer.json }
+		}
+	}
+}
+
